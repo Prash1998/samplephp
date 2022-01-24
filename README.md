@@ -1,4 +1,4 @@
-## This is the new and updated branch for f/better-readme for lab2
+## This is the new and updated branch for f/better-readme for Lab 2
 
 samplephp
 =========
